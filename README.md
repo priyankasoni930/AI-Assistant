@@ -1,6 +1,6 @@
 
 ### Chat with Gemini 
-#(for General questions)
+# (for General questions)
 
 
 ### Image Analysis
